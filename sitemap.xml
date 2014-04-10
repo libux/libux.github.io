@@ -1,19 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://libux.github.io/blog/2014/03/13/nobody-clicks-on-social-media-buttons/</loc>
+        <lastmod>2014-04-09T21:33:04-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libux.github.io/blog/2014/03/28/the-delightful-episode/</loc>
+        <lastmod>2014-04-09T21:37:47-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://libux.github.io/blog/2014/04/04/on-personalization/</loc>
+        <lastmod>2014-04-09T21:40:08-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://libux.github.io/blog/archives/</loc>
-        <lastmod>2014-04-10T13:08:28-04:00</lastmod>
+        <lastmod>2014-04-09T21:40:08-04:00</lastmod>
     </url>
     <url>
         <loc>http://libux.github.io/</loc>
-        <lastmod>2014-04-10T13:08:28-04:00</lastmod>
+        <lastmod>2014-04-09T21:40:08-04:00</lastmod>
     </url>
     <url>
         <loc>http://libux.github.io/posts/</loc>
-        <lastmod>2014-04-10T13:08:28-04:00</lastmod>
+        <lastmod>2014-04-09T21:40:08-04:00</lastmod>
     </url>
     <url>
         <loc>http://libux.github.io/robots.txt</loc>
-        <lastmod>2014-04-10T13:08:28-04:00</lastmod>
+        <lastmod>2014-04-09T19:05:03-04:00</lastmod>
     </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://libux.github.io/atom.xml" rel="self"/>
   <link href="http://libux.github.io/"/>
-  <updated>2014-04-10T13:08:41-04:00</updated>
+  <updated>2014-04-10T13:45:09-04:00</updated>
   <id>http://libux.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,88 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On Personalization]]></title>
+    <link href="http://libux.github.io/blog/2014/04/04/on-personalization/"/>
+    <updated>2014-04-04T21:38:11-04:00</updated>
+    <id>http://libux.github.io/blog/2014/04/04/on-personalization</id>
+    <content type="html"><![CDATA[<p>This week, A&amp;M read &ldquo;The Invasive Valley of Personalization&rdquo; and consider whether libraries
+do themselves disservice by not taking advantage of checkout history, search history within the library website,
+and other account information.</p>
+
+<p>Also, a toddler wakes up.</p>
+
+<h2>The Audio</h2>
+
+<p>Coming Soon</p>
+
+<h2>The Video</h2>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/MH33Of5QHGo" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The DELIGHTful Episode]]></title>
+    <link href="http://libux.github.io/blog/2014/03/28/the-delightful-episode/"/>
+    <updated>2014-03-28T21:34:59-04:00</updated>
+    <id>http://libux.github.io/blog/2014/03/28/the-delightful-episode</id>
+    <content type="html"><![CDATA[<p>For #libux 2, we read Jim Shamlin&rsquo;s &ldquo;Satisfaction, Delight, Disappointment, and Shock.&rdquo; We talk about inspiring delight
+through customer service and novelty. Other gems: we like Treehouse, jingles, book lists, WordPress, and free dessert!</p>
+
+<h2>The Audio</h2>
+
+<p>Coming Soon</p>
+
+<h2>The Video</h2>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/PfdTjo1OBjQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nobody Clicks on Social Media Buttons!]]></title>
+    <link href="http://libux.github.io/blog/2014/03/13/nobody-clicks-on-social-media-buttons/"/>
+    <updated>2014-03-13T20:46:35-04:00</updated>
+    <id>http://libux.github.io/blog/2014/03/13/nobody-clicks-on-social-media-buttons</id>
+    <content type="html"><![CDATA[<p>Our heroes trial-run / pilot this new podcast and talk, what else!, user experience and web design for libraries.
+Thirty minutes long and glorious.</p>
+
+<h2>The Audio</h2>
+
+<p>Coming Soon</p>
+
+<h2>The Vid</h2>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/pc7eqVC8pXY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+
+<p>Uh, we forgot.</p>
+]]></content>
+  </entry>
   
 </feed>

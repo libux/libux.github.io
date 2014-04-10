@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: social | My Octopress Blog]]></title>
+  <link href="http://libux.github.io/blog/categories/social/atom.xml" rel="self"/>
+  <link href="http://libux.github.io/"/>
+  <updated>2014-04-10T13:45:09-04:00</updated>
+  <id>http://libux.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nobody Clicks on Social Media Buttons!]]></title>
+    <link href="http://libux.github.io/blog/2014/03/13/nobody-clicks-on-social-media-buttons/"/>
+    <updated>2014-03-13T20:46:35-04:00</updated>
+    <id>http://libux.github.io/blog/2014/03/13/nobody-clicks-on-social-media-buttons</id>
+    <content type="html"><![CDATA[<p>Our heroes trial-run / pilot this new podcast and talk, what else!, user experience and web design for libraries.
+Thirty minutes long and glorious.</p>
+
+<h2>The Audio</h2>
+
+<p>Coming Soon</p>
+
+<h2>The Vid</h2>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/pc7eqVC8pXY" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+
+<p>Uh, we forgot.</p>
+]]></content>
+  </entry>
+  
+</feed>

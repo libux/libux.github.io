@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: delight | My Octopress Blog]]></title>
+  <link href="http://libux.github.io/blog/categories/delight/atom.xml" rel="self"/>
+  <link href="http://libux.github.io/"/>
+  <updated>2014-04-10T13:45:09-04:00</updated>
+  <id>http://libux.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The DELIGHTful Episode]]></title>
+    <link href="http://libux.github.io/blog/2014/03/28/the-delightful-episode/"/>
+    <updated>2014-03-28T21:34:59-04:00</updated>
+    <id>http://libux.github.io/blog/2014/03/28/the-delightful-episode</id>
+    <content type="html"><![CDATA[<p>For #libux 2, we read Jim Shamlin&rsquo;s &ldquo;Satisfaction, Delight, Disappointment, and Shock.&rdquo; We talk about inspiring delight
+through customer service and novelty. Other gems: we like Treehouse, jingles, book lists, WordPress, and free dessert!</p>
+
+<h2>The Audio</h2>
+
+<p>Coming Soon</p>
+
+<h2>The Video</h2>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/PfdTjo1OBjQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!-- more -->
+
+
+<h2>Show Notes</h2>
+]]></content>
+  </entry>
+  
+</feed>
